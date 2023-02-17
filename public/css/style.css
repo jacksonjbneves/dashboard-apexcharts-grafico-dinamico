@@ -1,0 +1,17 @@
+body{
+    background-color: #fcfcfc;
+}
+
+.bg-gray{
+    background-color: #575d63;
+}
+.bg-light-d{
+    /* background-color: #bdbec0; */
+    background-color: #fff;
+    
+}
+
+.dash{
+    width: 180px;
+    min-height: 90vh;
+}
